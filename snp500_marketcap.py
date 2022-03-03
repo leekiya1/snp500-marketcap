@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import bs4
 from urllib.request import Request, urlopen
-%matplotlib inline
 from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
 import pandas as pd
